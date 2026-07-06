@@ -1,0 +1,14 @@
+import sys
+
+def main():
+    input_data = sys.stdin.read().split()
+    if not input_data:
+        return
+    
+    words_tuple = tuple(input_data)
+    reversed_tuple = words_tuple[::-1]
+    
+    print(*(reversed_tuple))
+    
+if __name__ == '__main__':
+    main()
