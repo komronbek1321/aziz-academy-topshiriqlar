@@ -1,0 +1,1 @@
+print("Mahsulot: olma\nNarx: 5000\nRahmat!")
