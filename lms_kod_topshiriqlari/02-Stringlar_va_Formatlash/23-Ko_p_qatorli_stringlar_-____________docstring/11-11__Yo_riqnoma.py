@@ -1,0 +1,1 @@
+print("1-qadam\n2-qadam\n3-qadam")
