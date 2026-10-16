@@ -1,0 +1,1 @@
+print("Dush: dars\nSesh: kod\nChor: takror")
