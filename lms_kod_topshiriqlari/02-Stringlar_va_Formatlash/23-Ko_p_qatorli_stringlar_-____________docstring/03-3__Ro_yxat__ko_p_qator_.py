@@ -1,0 +1,1 @@
+print("Bajariladigan ishlar:\nKod yozish\nDam olish")
