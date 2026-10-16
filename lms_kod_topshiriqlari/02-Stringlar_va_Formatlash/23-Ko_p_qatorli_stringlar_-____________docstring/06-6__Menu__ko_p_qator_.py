@@ -1,0 +1,1 @@
+print("MENU\nOsh\nSomsa")
