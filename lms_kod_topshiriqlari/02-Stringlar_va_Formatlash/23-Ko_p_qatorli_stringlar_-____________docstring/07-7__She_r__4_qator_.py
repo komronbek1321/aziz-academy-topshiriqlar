@@ -1,0 +1,1 @@
+print("bir\nikki\nuch\ntort")
