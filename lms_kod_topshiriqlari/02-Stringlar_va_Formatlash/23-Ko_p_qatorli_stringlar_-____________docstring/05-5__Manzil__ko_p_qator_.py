@@ -1,0 +1,1 @@
+print("Toshkent\nChilonzor\n5-uy")
