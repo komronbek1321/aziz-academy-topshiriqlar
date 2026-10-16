@@ -1,0 +1,1 @@
+print("Bu dastur\nsalom aytadi.")
