@@ -4,30 +4,35 @@
 
 ## 📊 Umumiy progress
 
-`███░░░░░░░░░░░░░░░░░` **13%**  (24/179 mavzu)
+`████░░░░░░░░░░░░░░░░` **20%**  (35/179 mavzu)
 
-- ⭐ Jami ball: **74422**
-- 📤 GitHubga yuborilgan topshiriqlar: **455**
+- ⭐ Jami ball: **83437**
+- 📤 GitHubga yuborilgan topshiriqlar: **456**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash** → **🛠 Amaliy: Matn tahlili - so'z sanash, harf statistikasi**
+**MODUL 3 — Shartlar va Sikllar** → **Hisoblash ⭐ - max, min, yig'indi, o'rtacha**
 
-➡️ Keyingi mavzu: *🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)*
+➡️ Keyingi mavzu: *Nested loop - ko'paytirish jadvali*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Index va slicing ⭐ - s[0], s[1:4], s[::-1]
-- ✅ String metodlari - 1: lower, upper, strip, title
-- ✅ String metodlari - 2: replace, find, count, split, join
-- ✅ in operatori - substring izlash, mavjudlikni tekshirish
-- ✅ f-string ⭐ - zamonaviy formatlash (f"{ism}")
-- ✅ Boshqa formatlash - .format() va % (eski usullar)
-- ✅ Escape belgilar - \n, \t, \\, \"
-- ✅ Ko'p qatorli stringlar - """...""", docstring
-- ✅ 🛠 Amaliy: Matn tahlili - so'z sanash, harf statistikasi  ← yetgan joyingiz
-- ⬜ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)
+- ✅ if / elif / else ⭐ - shart operatorlari asoslari
+- ✅ Ichma-ich shartlar (nested if) - mantiqni tartiblash
+- ✅ 🛠 Shartli menyu - oddiy CLI menyu
+- ✅ while sikli ⭐ - shartga asoslangan takrorlash
+- ✅ break va continue - sikldan chiqish va o'tkazib yuborish
+- ✅ for va range() ⭐ - ketma-ket takrorlash
+- ✅ for bilan kolleksiyalar - string/list bo'ylab yurish
+- ✅ Pattern chizish - yulduzchalar, uchburchaklar (nested loop)
+- ✅ Filtrlash - juft sonlar, musbat sonlar ajratish
+- ✅ Hisoblash ⭐ - max, min, yig'indi, o'rtacha  ← yetgan joyingiz
+- ⬜ Nested loop - ko'paytirish jadvali
+- ⬜ Oddiy algoritmlar - bo'luvchilar, tub son tekshirish
+- ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) - random + while
+- ⬜ 🛠 Loyiha: Kengaytirilgan kalkulyator - menyu + sikl
+- ⬜ Infinite loop 🔁 - cheksiz sikl muammosi va oldini olish
 
 </details>
 
@@ -36,8 +41,8 @@
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
-| 2 | 🔸 Stringlar va Formatlash | `█████████░` 90% | 9/10 |
-| 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
+| 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
+| 3 | 🔸 Shartlar va Sikllar | `███████░░░` 67% | 10/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -58,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-25 17:20</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-11 05:02</sub>
