@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████░░░░░░░░░░░░░░░░` **20%**  (35/179 mavzu)
+`████░░░░░░░░░░░░░░░░` **22%**  (39/179 mavzu)
 
-- ⭐ Jami ball: **83437**
-- 📤 GitHubga yuborilgan topshiriqlar: **456**
+- ⭐ Jami ball: **85607**
+- 📤 GitHubga yuborilgan topshiriqlar: **457**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **Hisoblash ⭐ - max, min, yig'indi, o'rtacha**
+**MODUL 3 — Shartlar va Sikllar** → **🛠 Loyiha: Kengaytirilgan kalkulyator - menyu + sikl**
 
-➡️ Keyingi mavzu: *Nested loop - ko'paytirish jadvali*
+➡️ Keyingi mavzu: *Infinite loop 🔁 - cheksiz sikl muammosi va oldini olish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -27,11 +27,11 @@
 - ✅ for bilan kolleksiyalar - string/list bo'ylab yurish
 - ✅ Pattern chizish - yulduzchalar, uchburchaklar (nested loop)
 - ✅ Filtrlash - juft sonlar, musbat sonlar ajratish
-- ✅ Hisoblash ⭐ - max, min, yig'indi, o'rtacha  ← yetgan joyingiz
-- ⬜ Nested loop - ko'paytirish jadvali
-- ⬜ Oddiy algoritmlar - bo'luvchilar, tub son tekshirish
-- ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) - random + while
-- ⬜ 🛠 Loyiha: Kengaytirilgan kalkulyator - menyu + sikl
+- ✅ Hisoblash ⭐ - max, min, yig'indi, o'rtacha
+- ✅ Nested loop - ko'paytirish jadvali
+- ✅ Oddiy algoritmlar - bo'luvchilar, tub son tekshirish
+- ✅ 🛠 Loyiha: Taxmin o'yini (Guess game) - random + while
+- ✅ 🛠 Loyiha: Kengaytirilgan kalkulyator - menyu + sikl  ← yetgan joyingiz
 - ⬜ Infinite loop 🔁 - cheksiz sikl muammosi va oldini olish
 
 </details>
@@ -42,7 +42,7 @@
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
-| 3 | 🔸 Shartlar va Sikllar | `███████░░░` 67% | 10/15 |
+| 3 | 🔸 Shartlar va Sikllar | `█████████░` 93% | 14/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-11 05:02</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-12 05:02</sub>
