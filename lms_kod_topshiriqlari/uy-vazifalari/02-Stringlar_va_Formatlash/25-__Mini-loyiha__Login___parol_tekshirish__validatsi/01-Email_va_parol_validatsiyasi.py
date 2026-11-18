@@ -1,8 +1,5 @@
 email = input()
 parol = input()
 
-shart1 = ('@' in email) and ('.' in email)
-shart2 = (8 <= len(parol) <= 16)
-shart3 = (email == email.lower())
-
-print(shart1 and shart2 and shart3)
+shart = ('@' in email and '.' in email and 8 <= len(parol) <= 16 and email == email.lower())
+print(str(shart))
