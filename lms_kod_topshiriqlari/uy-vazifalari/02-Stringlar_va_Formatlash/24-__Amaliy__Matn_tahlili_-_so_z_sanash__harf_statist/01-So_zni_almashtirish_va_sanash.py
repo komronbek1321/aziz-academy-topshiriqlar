@@ -1,0 +1,5 @@
+matn = input()
+soz = input()
+yangilangan = matn.replace(soz, soz.upper())
+print(yangilangan)
+print(matn.count(soz))
