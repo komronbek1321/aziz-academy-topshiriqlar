@@ -1,0 +1,6 @@
+n = int(input())
+lst = list(map(int, input().split()))
+
+oxirgi = lst.pop()
+print(oxirgi)
+print(lst)
